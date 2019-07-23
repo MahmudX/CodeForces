@@ -1,4 +1,4 @@
-﻿# A. Way Too Long Words
+# A. Way Too Long Words
 >Time limit per test: 1 second 
 
 >Memory limit per test: 256 megabytes 
@@ -37,7 +37,7 @@ internationalization
 
 pneumonoultramicroscopicsilicovolcanoconiosis
 
-#####Output
+##### Output
 
 word
 
