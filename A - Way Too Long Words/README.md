@@ -28,13 +28,21 @@ Print n lines. The i-th line should contain the result of replacing of the i-th 
 ##### Input
 
 4
+
 word
+
 localization
+
 internationalization
+
 pneumonoultramicroscopicsilicovolcanoconiosis
+
 #####Output
 
 word
+
 l10n
+
 i18n
+
 p43s
