@@ -33,3 +33,5 @@ It is guaranteed that the result will be positive integer number.
 1000000000 9
 ### Output
 1
+##### Original Problem
+http://codeforces.com/contest/977/problem/A
