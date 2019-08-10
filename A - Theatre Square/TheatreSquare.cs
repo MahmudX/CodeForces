@@ -1,5 +1,4 @@
 using System;
- 
 namespace TestConsole
 {
     class Program
@@ -52,10 +51,7 @@ namespace TestConsole
                 }
                 z = x * y;
             }
- 
- 
             Console.WriteLine(z);
- 
         }
     }
 }
