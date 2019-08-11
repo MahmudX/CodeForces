@@ -57,3 +57,7 @@ In the first sample, Limak weighs 4 and Bob weighs 7 initially. After one year t
 In the second sample, Limak's and Bob's weights in next years are: 12 and 18, then 36 and 36, and finally 108 and 72 (after three years). The answer is 3. Remember that Limak wants to be larger than Bob and he won't be satisfied with equal weights.
 
 In the third sample, Limak becomes larger than Bob after the first year. Their weights will be 3 and 2 then.
+
+#### Original Problem
+
+http://codeforces.com/problemset/problem/791/A
