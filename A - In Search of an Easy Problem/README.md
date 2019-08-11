@@ -27,6 +27,7 @@ Examples
 ### Input
 
 3
+
 0 0 1
 
 ### Output
@@ -36,6 +37,7 @@ HARD
 ### Input
 
 1
+
 0
 
 ### Output
