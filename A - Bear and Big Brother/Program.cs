@@ -1,26 +1,22 @@
 using System;
-using System.Collections.Generic;
-namespace TestConsole
+namespace BearandBigBrother
 {
     class Program
     {
         public static void Main()
         {
-            int n = int.Parse(Console.ReadLine());
-            string[] sarr = Console.ReadLine().Split(' ');
-            int a = 0;
-            foreach (var item in sarr)
+            string[] weights = Console.ReadLine().Split();
+            int limak = int.Parse(weights[0]);
+            int bob = int.Parse(weights[1]);
+            int years = 0;
+            while (limak <= bob)
             {
-                a = a + int.Parse(item);
+                limak = limak * 3;
+                bob = bob * 2;
+                years++;
             }
-            if (a == 0)
-            {
-                Console.WriteLine("EASY");
-            }
-            else
-            {
-                Console.WriteLine("HARD");
-            }
+            Console.WriteLine(years);
+            Console.ReadLine();
         }
     }
 }
