@@ -8,8 +8,12 @@ This Repository contains every problem's solution I've submitted on Codeforces.
 
 ## Total Solved
 
-**8** Problems
+**9** Problems
 
 ## Language Used
 
 C Sharp
+
+## Checkout My Other Problem Solvings
+
+https://github.com/MahmudX/TestSharp
