@@ -25,8 +25,11 @@ Print a single integer — the number of problems the friends will implement on 
 ### Input
 
 3
+
 1 1 0
+
 1 1 1
+
 1 0 0
 
 ### Output
@@ -36,7 +39,9 @@ Print a single integer — the number of problems the friends will implement on 
 ### Input
 
 2
+
 1 0 0
+
 0 1 1
 
 ### Output
