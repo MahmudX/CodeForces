@@ -39,9 +39,13 @@ Output one number — the total number of faces in all the polyhedrons in Anton'
 ### Input
 
 4
+
 Icosahedron
+
 Cube
+
 Tetrahedron
+
 Dodecahedron
 
 ### Output
@@ -51,8 +55,11 @@ Dodecahedron
 ### Input
 
 3
+
 Dodecahedron
+
 Octahedron
+
 Octahedron
 
 ### Output
