@@ -8,7 +8,7 @@ This Repository contains every problem's solution I've submitted on Codeforces.
 
 ## Total Solved
 
-**20** Problems
+**21** Problems
 
 ## Language Used
 
