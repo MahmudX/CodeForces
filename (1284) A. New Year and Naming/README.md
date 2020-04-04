@@ -36,8 +36,10 @@ Print q lines. For each line, print the name of the year as per the rule describ
 
 The first example denotes the actual names used in the Gapja system. These strings usually are either a number or the name of some animal.
 
+Original Problem - <http://codeforces.com/problemset/problem/1284/A>
+
 Find me - <https://mahmudx.com>
 
 Also here - <http://mahmudnotes.com/>
 
-[exampletable] : https://espresso.codeforces.com/8ba15d7556e2b4c00f134ef1bd9cd5e794851aae.png
+[exampletable] : https://espresso.codeforces.com/8ba15d7556e2b4c00f134ef1bd9cd5e794851aae.png "Example Table"
