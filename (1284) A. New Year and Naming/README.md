@@ -10,7 +10,7 @@ The year 1 has a name which is the concatenation of the two strings s1 and t1. W
 
 For example, if n=3,m=4,s={"a", "b", "c"}, t= {"d", "e", "f", "g"}, the following table denotes the resulting year names. Note that the names of the years may repeat.
 
-![Example Table][exampletable]
+![Example Table](https://espresso.codeforces.com/8ba15d7556e2b4c00f134ef1bd9cd5e794851aae.png "Example Table")
 
 You are given two sequences of strings of size n and m and also q queries. For each query, you will be given the current year. Could you find the name corresponding to the given year, according to the Gapja system?
 
@@ -41,5 +41,3 @@ Original Problem - <http://codeforces.com/problemset/problem/1284/A>
 Find me - <https://mahmudx.com>
 
 Also here - <http://mahmudnotes.com/>
-
-[exampletable] : https://espresso.codeforces.com/8ba15d7556e2b4c00f134ef1bd9cd5e794851aae.png "Example Table"
